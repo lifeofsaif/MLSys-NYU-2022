@@ -130,8 +130,6 @@ dmypy.json
 
 .DS_Store
 
-*.png
-
 *.metaflow/
 
 metaflow_card_cache/
